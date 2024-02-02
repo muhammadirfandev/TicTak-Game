@@ -1,3 +1,3 @@
 TicTak-Game
 
-<img src="tickgame.png" alt="TicTak-Game" width="500" height="600">
+<img src="https://drive.google.com/file/d/1354OHJHax-IFffv1L-cJptVX4CIB5BHx/view?usp=sharing" alt="TicTak-Game">
